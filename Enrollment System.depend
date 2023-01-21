@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674281485 source:c:\users\mark daniel\onedrive\desktop\c++ practice\enrollment system\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<windows.h>
+
